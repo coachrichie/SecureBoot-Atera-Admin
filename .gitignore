@@ -1,0 +1,5 @@
+output/**/*.json
+output/**/*.csv
+output/**/*.html
+output/**/*.log
+*.marker

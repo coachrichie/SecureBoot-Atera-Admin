@@ -1,0 +1,1 @@
+Dieses Paket enthält administrative Secure-Boot-Skripte für die manuelle Ausführung über Atera. Vor dem produktiven Einsatz sind Change-Freigabe, BitLocker-Escrow und OEM-Kompatibilität zu prüfen.
